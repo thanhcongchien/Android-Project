@@ -16,3 +16,6 @@ Implementation Guide
 - Import the file google-service.json into your project
 - Connect to firebase console authentication and database from your IDE 
 - in firebase Storage Rules, change value of "allow read, write:" from "if request.auth != null" to "if true;" 
+
+![2](https://user-images.githubusercontent.com/55091674/93608620-04bcb080-f9f5-11ea-80d6-e483e4e3df5d.jpg)
+![5](https://user-images.githubusercontent.com/55091674/93608663-11d99f80-f9f5-11ea-91b9-198386fcf591.jpg)
