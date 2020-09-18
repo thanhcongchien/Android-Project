@@ -17,5 +17,6 @@ Implementation Guide
 - Connect to firebase console authentication and database from your IDE 
 - in firebase Storage Rules, change value of "allow read, write:" from "if request.auth != null" to "if true;" 
 
+![1](https://user-images.githubusercontent.com/55091674/93608808-43526b00-f9f5-11ea-8982-52d67b6f1d35.jpg)
 ![2](https://user-images.githubusercontent.com/55091674/93608620-04bcb080-f9f5-11ea-80d6-e483e4e3df5d.jpg)
 ![5](https://user-images.githubusercontent.com/55091674/93608663-11d99f80-f9f5-11ea-91b9-198386fcf591.jpg)
